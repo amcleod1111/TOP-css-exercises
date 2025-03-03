@@ -2,3 +2,12 @@
 	background-color: #ff000080;
 	font-family: 'Verdana','DejaVu Sans', 'sans-serif';
 }
+
+#number_2 {
+	color: #0000ff;
+	font-size: 36px;
+}
+
+.odd#number_3 {
+	font-size: 24px;
+}
